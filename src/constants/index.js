@@ -182,7 +182,7 @@ const socialImgs = [
   {
     name: "linkedin",
     imgPath: "/images/linkedin.png",
-    href: "#",
+    href: "https://www.linkedin.com/in/shahbaz-khan-8a0a8039b/",
   },
 ];
 
