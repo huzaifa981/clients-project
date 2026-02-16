@@ -169,16 +169,7 @@ const expLogos = [
 
 
 const socialImgs = [
-  {
-    name: "insta",
-    imgPath: "/images/insta.png",
-    href: "https://www.instagram.com/sh.khan1111?",
-  },
-  {
-    name: "fb",
-    imgPath: "/images/fb.png",
-    href: "https://www.facebook.com/share/189XXuobaW/",
-  },
+
   {
     name: "linkedin",
     imgPath: "/images/linkedin.png",
