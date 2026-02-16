@@ -36,18 +36,18 @@ const AppShowcase = () => {
       color: "bg-[#0077b5] hover:bg-[#006399]",
       icon: <Linkedin className="w-12 h-12 text-white" />,
     },
-    {
-      name: "Facebook",
-      href: "https://www.facebook.com/share/189XXuobaW/",
-      color: "bg-[#1877F2] hover:bg-[#166fe5]",
-      icon: <Facebook className="w-12 h-12 text-white" />,
-    },
-    {
-      name: "Instagram",
-      href: "https://www.instagram.com/sh.khan1111?",
-      color: "bg-gradient-to-tr from-[#f09433] via-[#dc2743] to-[#bc1888] hover:opacity-90",
-      icon: <Instagram className="w-12 h-12 text-white" />,
-    },
+    // {
+    //   name: "Facebook",
+    //   href: "https://www.facebook.com/share/189XXuobaW/",
+    //   color: "bg-[#1877F2] hover:bg-[#166fe5]",
+    //   icon: <Facebook className="w-12 h-12 text-white" />,
+    // },
+    // {
+    //   name: "Instagram",
+    //   href: "https://www.instagram.com/sh.khan1111?",
+    //   color: "bg-gradient-to-tr from-[#f09433] via-[#dc2743] to-[#bc1888] hover:opacity-90",
+    //   icon: <Instagram className="w-12 h-12 text-white" />,
+    // },
   ];
 
   return (
