@@ -5,15 +5,9 @@ const AppShowcase = () => {
     {
       name: "Motion Design Projects",
       href: "https://drive.google.com/drive/folders/1lVhrzy0GuxKWxte9tOU7QaQdkrEoRBCy?usp=sharing", // Add your Google Drive link here
-      color: "bg-[#222222] hover:bg-[#333333]",
+      color: "bg-[#222222] hover:bg-[#333333] text-white",
       icon: (
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87.3 78" className="w-12 h-12">
-          <path d="m6.6 66.85 3.85 6.65c.8 1.4 1.9 2.5 3.2 3.3l-13.65-23.8h27.3l-3.85-6.65-9.85-17.1-9.9 17.1-3.2 5.55h.1z" fill="#0066da" />
-          <path d="m43.65 25-13.65-23.8c-1.3.8-2.4 1.9-3.2 3.3l-9.85 17.1 13.65 23.8 3.85-6.65 9.85-17.1 3.2-5.55-3.85 8.9z" fill="#00ac47" />
-          <path d="m73.55 76.8c1.3-.8 2.4-1.9 3.2-3.3l9.85-17.1-13.65-23.8-3.85 6.65-9.85 17.1-3.2 5.55h27.3z" fill="#ea4335" />
-          <path d="m43.65 25 13.65 23.8-13.65 23.8h-27.3l13.65-23.8z" fill="#00832d" />
-          <path d="m59.8 53.25-3.2-5.55-9.85-17.1-13.65-23.8h19.7c1.5 0 2.95.4 4.2 1.1l13.65 23.8z" fill="#ffba00" />
-        </svg>
+        <i className="fa-brands fa-google-drive" style={{ fontSize: "50px", color: "white" }}></i>
       ),
     },
     {
@@ -21,13 +15,8 @@ const AppShowcase = () => {
       href: "https://drive.google.com/drive/folders/1HS12vzwCMaJ2Cl1d13ZqiYip2IU8GqnP?usp=sharing",
       color: "bg-[#222222] hover:bg-[#333333]",
       icon: (
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87.3 78" className="w-12 h-12">
-          <path d="m6.6 66.85 3.85 6.65c.8 1.4 1.9 2.5 3.2 3.3l-13.65-23.8h27.3l-3.85-6.65-9.85-17.1-9.9 17.1-3.2 5.55h.1z" fill="#0066da" />
-          <path d="m43.65 25-13.65-23.8c-1.3.8-2.4 1.9-3.2 3.3l-9.85 17.1 13.65 23.8 3.85-6.65 9.85-17.1 3.2-5.55-3.85 8.9z" fill="#00ac47" />
-          <path d="m73.55 76.8c1.3-.8 2.4-1.9 3.2-3.3l9.85-17.1-13.65-23.8-3.85 6.65-9.85 17.1-3.2 5.55h27.3z" fill="#ea4335" />
-          <path d="m43.65 25 13.65 23.8-13.65 23.8h-27.3l13.65-23.8z" fill="#00832d" />
-          <path d="m59.8 53.25-3.2-5.55-9.85-17.1-13.65-23.8h19.7c1.5 0 2.95.4 4.2 1.1l13.65 23.8z" fill="#ffba00" />
-        </svg>
+        <i className="fa-brands fa-google-drive" style={{ fontSize: "50px", color: "white" }}></i>
+
       ),
     },
     {
